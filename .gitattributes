@@ -1,0 +1,3 @@
+*.unityproj linguist-language=C#
+*.cs linguist-language=C#
+Build/ linguist-vendored
