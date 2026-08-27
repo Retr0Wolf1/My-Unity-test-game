@@ -1,5 +1,8 @@
 # My basic game
 
+## Play Online
+https://retr0wolf1.github.io/My-Unity-test-game/
+
 ## How to Run (VS Code ONLY)
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
