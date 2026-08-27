@@ -1,3 +1,5 @@
-*.unityproj linguist-language=C#
 *.cs linguist-language=C#
+*.unity linguist-language=C#
+*.asset linguist-language=C#
 Build/ linguist-vendored
+TemplateData/ linguist-vendored
