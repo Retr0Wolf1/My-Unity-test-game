@@ -1,0 +1,425 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.5/staging' branch; Version is '6000.5.10f1 (3bd4f66ad299) revision 3921142'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'ru' Physical Memory: 16011 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Retr0" at "2026-08-27T14:44:04.5452083Z"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-08-27T14:44:04Z
+
+COMMAND LINE ARGUMENTS:
+E:\Unity\6000.5.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW0
+-projectPath
+C:/Users/Retr0/Обучение по настройке в редакторе
+-logFile
+Logs/AssetImportWorkerHW0.log
+-srvPort
+59290
+-parentPid
+26512
+-analyticsCloudUserId
+anonymous
+-analyticsCloudProjectId
+cd1d5ac2-5e40-4439-83f6-f30e66ed2c56
+-analyticsLocalProjectId
+1477e1429da50fb49aec2eabc6a62ce6
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+00fb9404fd2e25c7508552943ccc79bc3f548cf7
+-cbmMachineId
++A+DZp5qBUjdFgSXnThWDwLrh8g=
+-licensingIpc
+LicenseClient-Retr0
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Retr0/Обучение по настройке в редакторе
+C:/Users/Retr0/Обучение по настройке в редакторе
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=0"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [16724]  Target information:
+
+Player connection [16724]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 844858991 [EditorId] 844858991 [Version] 1048832 [Id] WindowsEditor(7,WIN-3520KHNTA06) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16724]  * "[IP] 192.168.151.1 [Port] 0 [Flags] 2 [Guid] 844858991 [EditorId] 844858991 [Version] 1048832 [Id] WindowsEditor(7,WIN-3520KHNTA06) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16724]  * "[IP] 192.168.84.1 [Port] 0 [Flags] 2 [Guid] 844858991 [EditorId] 844858991 [Version] 1048832 [Id] WindowsEditor(7,WIN-3520KHNTA06) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16724]  * "[IP] 26.101.142.246 [Port] 0 [Flags] 2 [Guid] 844858991 [EditorId] 844858991 [Version] 1048832 [Id] WindowsEditor(7,WIN-3520KHNTA06) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16724]  * "[IP] 192.168.57.187 [Port] 0 [Flags] 2 [Guid] 844858991 [EditorId] 844858991 [Version] 1048832 [Id] WindowsEditor(7,WIN-3520KHNTA06) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16724] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16724] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.5.10f1 (3bd4f66ad299)
+[Subsystems] Discovering subsystems at path E:/Unity/6000.5.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Retr0/Обучение по настройке в редакторе/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28a1)
+    Vendor:          NVIDIA
+    VRAM:            5920 MB
+    App VRAM Budget: 5152 MB
+    Driver:          32.0.16.1088
+Initialize mono
+Mono path[0] = 'E:/Unity/6000.5.10f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/6000.5.10f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'E:/Unity/6000.5.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/Unity/6000.5.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56160
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/6000.5.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/Unity/6000.5.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001804 seconds.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.3'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Retr0"
+[Licensing::IpcConnector] LicenseClient-Retr0 channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Retr0-6000.5.10" at "2026-08-27T14:44:06.2203795Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 25540, path: "E:/Unity/6000.5.10f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              75b6282eac134dfb9cbe8028dea665bc
+  Correlation Id:          817e3ee071fb123a2fc92fc973bbfe86
+  External correlation Id: 4342695318128434016
+  Machine Id:              +A+DZp5qBUjdFgSXnThWDwLrh8g=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Retr0-6000.5.10" (connect: 0.00s, validation: 0.00s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Retr0-6000.5.10-notifications" at "2026-08-27T14:44:06.2346156Z"
+[Licensing::Module] Licensing Background thread has ended after 1.69s
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.610 seconds
+Domain Reload Profiling: 1253ms
+	BeginReloadAssembly (199ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (80ms)
+	LoadAllAssembliesAndSetupDomain (343ms)
+		LoadAssemblies (199ms)
+		AnalyzeDomain (258ms)
+			TypeCache.Refresh (257ms)
+				TypeCache.ScanAssembly (243ms)
+	FinalizeReload (612ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (116ms)
+			ProcessInitializeOnLoadAttributes (120ms)
+			ProcessInitializeOnLoadMethodAttributes (276ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 5774106667280-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Curl error 3: URL rejected: Malformed input to a URL function
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.761 seconds
+Domain Reload Profiling: 1805ms
+	BeginReloadAssembly (380ms)
+		DisableScriptedObjects (16ms)
+		CreateAndSetChildDomain (67ms)
+	RebuildCommonClasses (10ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (65ms)
+	LoadAllAssembliesAndSetupDomain (568ms)
+		LoadAssemblies (438ms)
+		AnalyzeDomain (189ms)
+			TypeCache.Refresh (128ms)
+				TypeCache.ScanAssembly (119ms)
+			BuildScriptInfoCaches (53ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (762ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (102ms)
+			ProcessInitializeOnLoadAttributes (200ms)
+			ProcessInitializeOnLoadMethodAttributes (149ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+Curl error 3: URL rejected: Malformed input to a URL function
+Unloading 4224 unused Assets / (7.9 MB). Loaded Objects now: 5156.
+Memory consumption went from 282.3 MB to 274.3 MB.
+Total: 10.291700 ms (FindLiveObjects: 0.584500 ms CreateObjectMapping: 0.561700 ms MarkObjects: 5.653800 ms  DeleteObjects: 3.488400 ms)
+
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.776 seconds
+Domain Reload Profiling: 1434ms
+	BeginReloadAssembly (241ms)
+		DisableScriptedObjects (10ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (10ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (343ms)
+		LoadAssemblies (320ms)
+		AnalyzeDomain (14ms)
+			TypeCache.Refresh (6ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (777ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (107ms)
+			ProcessInitializeOnLoadAttributes (192ms)
+			ProcessInitializeOnLoadMethodAttributes (126ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4221 unused Assets / (7.1 MB). Loaded Objects now: 5200.
+Memory consumption went from 286.2 MB to 279.1 MB.
+Total: 7.885600 ms (FindLiveObjects: 0.636600 ms CreateObjectMapping: 0.352300 ms MarkObjects: 4.402300 ms  DeleteObjects: 2.492900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 285.3 MB to 280.8 MB.
+Total: 7.999700 ms (FindLiveObjects: 0.231800 ms CreateObjectMapping: 0.123100 ms MarkObjects: 6.414000 ms  DeleteObjects: 1.229800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 287.3 MB to 282.8 MB.
+Total: 6.257000 ms (FindLiveObjects: 0.280900 ms CreateObjectMapping: 0.115400 ms MarkObjects: 4.854500 ms  DeleteObjects: 1.004800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 289.3 MB to 284.8 MB.
+Total: 8.408700 ms (FindLiveObjects: 0.271100 ms CreateObjectMapping: 0.124600 ms MarkObjects: 6.432500 ms  DeleteObjects: 1.578200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 291.3 MB to 286.8 MB.
+Total: 10.811700 ms (FindLiveObjects: 0.263200 ms CreateObjectMapping: 0.101200 ms MarkObjects: 9.183300 ms  DeleteObjects: 1.262600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 293.3 MB to 288.8 MB.
+Total: 9.620300 ms (FindLiveObjects: 0.307900 ms CreateObjectMapping: 0.079000 ms MarkObjects: 8.046800 ms  DeleteObjects: 1.184700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 295.3 MB to 290.8 MB.
+Total: 19.761100 ms (FindLiveObjects: 0.537400 ms CreateObjectMapping: 0.303000 ms MarkObjects: 15.850000 ms  DeleteObjects: 3.068300 ms)
+
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Prepare: number of updated asset objects reloaded= 183
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  buildTarget: platform 20, subtarget 1, extendedPlatform 0 -> platform 20, subtarget 0, extendedPlatform 0
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 294.4 MB to 289.9 MB.
+Total: 8.946000 ms (FindLiveObjects: 0.339900 ms CreateObjectMapping: 0.138400 ms MarkObjects: 6.846800 ms  DeleteObjects: 1.619200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  buildTarget: platform 20, subtarget 1, extendedPlatform 0 -> platform 20, subtarget 0, extendedPlatform 0
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 294.9 MB to 290.3 MB.
+Total: 7.734100 ms (FindLiveObjects: 0.191400 ms CreateObjectMapping: 0.106500 ms MarkObjects: 6.391400 ms  DeleteObjects: 1.043000 ms)
+
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Prepare: number of updated asset objects reloaded= 183
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 295.4 MB to 290.9 MB.
+Total: 7.858600 ms (FindLiveObjects: 0.279100 ms CreateObjectMapping: 0.134100 ms MarkObjects: 6.341200 ms  DeleteObjects: 1.102800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 295.8 MB to 291.3 MB.
+Total: 8.312500 ms (FindLiveObjects: 0.372000 ms CreateObjectMapping: 0.084000 ms MarkObjects: 6.189000 ms  DeleteObjects: 1.665700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 56 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (4.5 MB). Loaded Objects now: 5200.
+Memory consumption went from 296.2 MB to 291.7 MB.
+Total: 32.185000 ms (FindLiveObjects: 0.947100 ms CreateObjectMapping: 0.131300 ms MarkObjects: 28.866300 ms  DeleteObjects: 2.237900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+EnvironmentDependencyValues requested are different than current active one (requested -> active):
+  graphicsApiMask: 2048 -> 264192
+Editor requested this worker to shutdown with reason: Editor is closing down
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

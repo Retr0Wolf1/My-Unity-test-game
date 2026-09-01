@@ -1,0 +1,57 @@
+[2026-09-01T09:10:10.222Z][INFO] Command-line: E:\\Unity\\6000.5.10f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe server -s 21536 --ipc-path Unity-Upm-21536 -l 2 --log-file E:\\Unity\\Test/Logs/upm.log
+[2026-09-01T09:10:10.342Z][INFO] IPC server started (IPC path=Unity-Upm-21536).
+[2026-09-01T09:10:10.343Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-21536.
+[2026-09-01T09:10:35.827Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:10:36.172Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:10:36.183Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-01T09:10:36.984Z][INFO] config:project:get-registries --> 200 (802 ms)
+[2026-09-01T09:10:37.076Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-09-01T09:10:37.926Z][INFO] project:list-packages --> 200 (2100 ms)
+[2026-09-01T09:10:37.936Z][INFO] project:list-packages --> 200 (1764 ms)
+[2026-09-01T09:10:39.338Z][WARN] Requested version [1.0.0] for package [com.unity.editorcoroutines] overridden by minimum version [1.1.0].
+[2026-09-01T09:10:39.338Z][WARN] Requested version [1.0.3] for package [com.unity.settings-manager] overridden by minimum version [2.1.1].
+[2026-09-01T09:10:39.338Z][WARN] Requested version [2.0.0] for package [com.unity.splines] overridden by minimum version [2.9.0].
+[2026-09-01T09:10:39.338Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.5].
+[2026-09-01T09:10:39.339Z][WARN] Requested version [1.8.14] for package [com.unity.burst] overridden by minimum version [1.8.30].
+[2026-09-01T09:10:39.339Z][WARN] Requested version [3.2.0] for package [com.unity.test-framework.performance] overridden by minimum version [3.5.0].
+[2026-09-01T09:10:39.342Z][INFO] project:resolve-packages --> 200 (2266 ms)
+[2026-09-01T09:11:24.494Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:24.538Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:24.830Z][INFO] project:list-packages --> 200 (336 ms)
+[2026-09-01T09:11:24.831Z][INFO] project:list-packages --> 200 (293 ms)
+[2026-09-01T09:11:27.591Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:27.796Z][INFO] project:list-packages --> 200 (204 ms)
+[2026-09-01T09:11:27.903Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-01T09:11:27.926Z][INFO] config:project:get-registries --> 200 (23 ms)
+[2026-09-01T09:11:35.620Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:35.750Z][INFO] project:list-packages --> 200 (130 ms)
+[2026-09-01T09:11:37.505Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:37.727Z][INFO] project:list-packages --> 200 (223 ms)
+[2026-09-01T09:11:40.497Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:40.528Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:40.780Z][INFO] project:list-packages --> 200 (282 ms)
+[2026-09-01T09:11:40.796Z][INFO] project:list-packages --> 200 (268 ms)
+[2026-09-01T09:11:40.820Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:40.969Z][INFO] project:list-packages --> 200 (149 ms)
+[2026-09-01T09:11:40.995Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-01T09:11:41.001Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-09-01T09:11:46.826Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:46.841Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-01T09:11:47.028Z][INFO] project:list-packages --> 200 (187 ms)
+[2026-09-01T09:11:48.519Z][INFO] project:list-packages --> 200 (1692 ms)
