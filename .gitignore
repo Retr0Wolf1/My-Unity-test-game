@@ -1,13 +1,51 @@
-# Python
-venv/
-__pycache__/
-*.pyc
-*.pyo
+# ================
+# Unity
+# ================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
-# IDE
-.vscode/
+# ================
+# Visual Studio / VS Code
+# ================
+.vs/
 .idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
 
-# Системные
+# ================
+# OS generated
+# ================
 .DS_Store
 Thumbs.db
+Desktop.ini
+
+# ================
+# Unity Package Manager
+# ================
+/Packages/
+!/Packages/manifest.json
+!/Packages/packages-lock.json
+
+# ================
+# WebGL builds (ваши файлы для GitHub Pages)
+# ================
+# Если вы хотите хранить сборку отдельно, раскомментируйте строки ниже
+# /index.html
+# /TemplateData/
+# /Build/
